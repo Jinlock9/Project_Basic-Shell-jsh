@@ -1,5 +1,4 @@
 CC = clang-16
-#CFLAGS = -std=c17 -O2 -Wall -Wextra -Werror -pedantic -Wno-unused-result
 CFLAGS = -std=gnu17 -Wvla -Wall -Wextra -Werror -Wpedantic -Wno-unused-result -Wconversion
 JSH_SRC = jsh.c
 JSH = jsh 
