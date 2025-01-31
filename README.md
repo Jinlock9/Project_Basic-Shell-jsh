@@ -12,7 +12,7 @@ Refer to the *ECE4820J: Introduction to Operating System* course project at Univ
 ### Jinlock Choi
 - University of Michigan - Shanghai Jiaotong University Joint Institute
 - jinlock99@sjtu.edu.cn
-- teampoclain@gmail.com
+- jinlock99@gmail.com
 - Location:
     - *Seoul, Korea*
     - *Shanghai, China*
